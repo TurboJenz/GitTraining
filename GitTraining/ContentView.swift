@@ -13,7 +13,7 @@ struct ContentView: View {
             Text("Hello, world!")
                 .padding()
             Button(action: {}, label: {
-                Text("Button")
+                Text("Tilføj")
             })
         }
     }
