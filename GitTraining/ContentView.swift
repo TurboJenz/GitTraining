@@ -15,6 +15,7 @@ struct ContentView: View {
             Button(action: {}, label: {
                 Text("Tilføj")
             })
+            //Sådan
         }
     }
 }
