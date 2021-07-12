@@ -16,6 +16,7 @@ struct ContentView: View {
                 Text("Tilføj")
             })
             //Sådan
+            // Linnie 2
         }
     }
 }
